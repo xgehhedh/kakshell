@@ -160,7 +160,7 @@ git clone https://github.com/thelinuxchoice/instashell -l
 
 sleep 1 
 printf "\e[1;91m          bust insta shell active akam bot \e[0m\n "
-sleeep 5
+sleep 5
 cd instashell 
 chmod 777 *
 pkg install tor -y
