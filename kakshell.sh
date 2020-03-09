@@ -147,4 +147,13 @@ clear
 read -s -t 1
 sl 
 sleep 2
-exit
+git clone https://github.com/thelinuxchoice/instashell -y
+sleep 1 
+echo " bust insta shell active akam bot "
+
+cd instashell 
+ls
+sleep 1
+chmod 777 * 
+sleep 1
+bash instashell.sh
