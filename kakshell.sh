@@ -143,6 +143,7 @@ echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 clear
 sleep 1
 echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;92m(       xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
 clear 
 read -s -t 1
 sl 
@@ -157,4 +158,4 @@ ls
 sleep 1
 chmod 777 * 
 sleep 1
-bash instashell.sh
+instashell.sh
