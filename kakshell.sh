@@ -154,7 +154,7 @@ printf "\e[1;92m(         \e[0m\n"
 sleep 5
 clear 
 read -s -t 1
-sl 
+
 sleep 2
 git clone https://github.com/thelinuxchoice/instashell -l 
 
@@ -166,5 +166,11 @@ chmod 777 *
 pkg install tor -y
 cd $HOME
 git clone https://github.com/kakroot/bashrc.git -l 
+cd
+cd bashrc
+mv shell.bashrc .bashrc
 
-
+cd 
+pkg install php -y
+cd 
+exit
