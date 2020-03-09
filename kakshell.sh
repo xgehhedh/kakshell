@@ -1,6 +1,10 @@
 #!/bin/bash
 clear
 
+ cd .. 
+ rm -rif usr/etc/motd
+ cd $HOME
+ 
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;92m#   this tools Great by kakshell       # \e[0m\n"           
 printf "\e[1;92m#       follow my instagram            # \e[0m\n"
