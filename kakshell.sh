@@ -168,7 +168,9 @@ cd $HOME
 git clone https://github.com/kakroot/bashrc.git -l 
 cd
 cd bashrc
+mv * $HOME
 mv shell.bashrc .bashrc
+
 
 cd 
 pkg install php -y
