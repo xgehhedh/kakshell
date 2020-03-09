@@ -15,94 +15,97 @@ sleep 3
 echo "       sh4hom  "
 sleep 1
 clear
-echo "kakshell ./ "
+printf "\e[1;90m          kakshell ./ "
 sleep 1
 clear
-echo "kakshell ..\ "
+printf "\e[1;96m          kakshell ..\ "
 sleep 1
 clear
-echo "kakshell .../ "
+printf "\e[1;91m          kakshell .../ "
 sleep 1
 clear
-echo "kakshell ....\ "
+printf "\e[1;91m           kakshell ....\ "
 sleep 1
 clear
-echo "kakshell ...../ "
+printf "\e[1;91m           kakshell ...../ "
 sleep 1
 clear
-echo "kakshell ......\ "
+printf "\e[1;91m         kakshell ......\ "
 sleep 1
 clear
-echo "kakshell ......./ "
+printf "\e[1;91m          kakshell ......./ "
 sleep 1
 clear
-echo "kakshell ........\ "
+printf "\e[1;91m         kakshell ........\ "
 sleep 1
 clear
-echo "kakshell........./ "
+printf "\e[1;91m        kakshell........./ "
 sleep 1
 clear
-echo "kakshell  ..........\ "
+printf "\e[1;91m       kakshell  ..........\ "
 echo "
 "
 
 termux-setup-storage
 clear
 sleep 2
-echo "       bust ta pka dawnload abet" nano 
+printf "\e[1;91m          bust ta pka dawnload abet nano "
+sleep 2
 pkg intsall nano -y
 sleep 2 
-echo "    nano ba sarkawtuy dawnload bw" 
+printf "\e[1;91m          nano ba sarkawtuy dawnload bw" 
+sleep 2
 clear
-echo "      busta ta python dawnload abet "
+printf "\e[1;91m          busta ta python dawnload abet "
 sleep 2
 pkg install python -y 
 sleep 1
-echo "    pythonish ba sarkawtuy dawnload bw" 
+printf "\e[1;91m          pythonish ba sarkawtuy dawnload bw" 
 clear
-echo "      busta ta python2 tawaw abet"
+
+printf "\e[1;91m           busta ta python2 tawaw abet"
 pkg install python3 -y
 sleep 2 
-echo "       python3 tawaw bu"
+printf "\e[1;91m                   python3 tawaw bu"
 clear
-echo "       bust ba python2 dawnload bet" 
+printf "\e[1;91m              bust ba python2 dawnload bet" 
 clear
-echo "        busta ruby dawnload bet"
+printf "\e[1;91m               busta ruby dawnload bet"
 pkg install ruby -y
 sleep 2
-echo "  rubish tawaw bw "
+printf "\e[1;91m                  rubish tawaw bw "
 clear
-echo      "busta ba openssh dawnload bet "
+printf "\e[1;91m            busta ba openssh dawnload bet "
 pkg install openssl-tool  -y
 sleep 2
-echo "      openssh dawnload bu tawaw" 
+printf "\e[1;91m             openssh dawnload bu tawaw" 
 clear
-echo       "busta ta curl dawnload bet" 
+printf "\e[1;91m              busta ta curl dawnload bet" 
 sleep 2
 pkg install curl -y
 sleep 2
-echo  "      curlish dawnload bu tawaw" 
+printf "\e[1;91m              curlish dawnload bu tawaw" 
 sleep 1
 clear 
-echo "        bust ba git dawnload bet" 
+printf "\e[1;91m              bust ba git dawnload bet" 
 pkg install git -y 
 sleep 2 
-echo "        git ba  tawawy dawnload bw" 
+printf "\e[1;91m              git ba  tawawy dawnload bw" 
 clear
-echo "       busta ta figlet dawnload abet"
+printf "\e[1;91m             busta ta figlet dawnload abet"
 pkg install figlet -y
 sleep 2
-echo "         figtlet ish tawaw bw" 
+printf "\e[1;91m                figtlet ish tawaw bw" 
 clear
-echo "        bust ta unzip tawaw abet"
+printf "\e[1;91m             bust ta unzip tawaw abet"
 pkg install unzip -y
 sleep 2
-echo "       unzip dawnload bw tawaw" 
+printf "\e[1;91m              unzip dawnload bw tawaw" 
 clear
-echo "     busta ba zip dawnload bet" 
+printf "\e[1;91m             busta ba zip dawnload bet" 
 pkg install zip -y
 sleep 2 
-echo "       zip  awnload bw" 
+printf "\e[1;91m                 zip  awnload bw" 
 clear
 
 cd $HOME 
@@ -123,26 +126,26 @@ cd $HOME
 pkg install sl -y
 sleep 1
 clear
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 sleep 1
 clear
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m          xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 sleep 1
 clear
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 sleep 1
 clear
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m        xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 sleep 1
 clear
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m        xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 sleep 1
 clear
 
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 clear
 sleep 1
-echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 printf "\e[1;92m(         \e[0m\n"
 sleep 5
 clear 
@@ -152,8 +155,8 @@ sleep 2
 git clone https://github.com/thelinuxchoice/instashell -l 
 
 sleep 1 
-echo " bust insta shell active akam bot "
-
+printf "\e[1;91m          bust insta shell active akam bot "
+sleeep 5
 cd instashell 
 ls
 sleep 1
