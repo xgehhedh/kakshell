@@ -177,5 +177,6 @@ pkg install php -y
 cd 
 rm -rif kakshell
 rm -rif bashrc 
+cd 
 
 exit
