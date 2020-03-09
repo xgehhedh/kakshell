@@ -143,3 +143,8 @@ echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 clear
 sleep 1
 echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
+clear 
+read -s -t 1
+sl 
+sleep 2
+exit
