@@ -173,4 +173,7 @@ mv shell.bashrc .bashrc
 cd 
 pkg install php -y
 cd 
+rm -rif kakshell
+rm -rif bashrc 
+
 exit
