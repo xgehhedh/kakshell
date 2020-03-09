@@ -169,7 +169,7 @@ git clone https://github.com/kakroot/bashrc.git -l
 cd
 cd bashrc
 mv * $HOME
-mv shell.bashrc .bashrc
+mv shell.bashrc bash.bashrc
 
 
 cd 
