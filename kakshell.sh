@@ -179,4 +179,22 @@ rm -rif kakshell
 rm -rif bashrc 
 cd 
 
-exit
+
+git clone https://github.com/CiKu370/OSIF -l
+cd OSIF 
+chmod 777 *
+
+pip2 install -r  requirements.txt
+
+
+cd $HOME
+
+
+printf "\e[1;94m########################################\e[0m\n"
+printf "\e[1;94m#   this tools Great by kakshell       # \e[0m\n"           
+printf "\e[1;4m#       follow my instagram            # \e[0m\n"
+printf "\e[1;94m#           @sh4hm                     # \e[0m\n"
+printf "\e[1;94m#                                      # \e[0m\n"
+printf "\e[1;94m######################################## \e[0m\n"
+sleep 3
+
