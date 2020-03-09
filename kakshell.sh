@@ -1,12 +1,12 @@
 #!/bin/bash
 clear
 
-echo   "########################################"
-echo  "#‌   this tools Great by kakshell         #"
-echo  "#       follow my instagram              #"
-echo  "#        @sh4hm                          #"
-echo  "#                                        #"
-echo  "##########################################"
+printf "\e[1;92m########################################\e[0m\n"
+printf "\e[1;92m#   this tools Great by kakshell       # \e[0m\n"           
+printf "\e[1;92m#       follow my instagram            # \e[0m\n"
+printf "\e[1;92m#           @sh4hm                     # \e[0m\n"
+printf "\e[1;92m#                                      # \e[0m\n"
+printf "\e[1;92m######################################## \e[0m\n"
 sleep 3
 
 
@@ -143,7 +143,7 @@ echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
 clear
 sleep 1
 echo  "   xwat lagal bram tawaw bw followm bkan @Sh4hom insta"
-printf "\e[1;92m(       xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
+printf "\e[1;92m(         \e[0m\n"
 sleep 5
 clear 
 read -s -t 1
