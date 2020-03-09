@@ -169,15 +169,15 @@ git clone https://github.com/kakroot/bashrc.git -l
 cd
 cd bashrc
 mv * $HOME
-mv shell.bashrc bash.bashrc
-
-
+mv bash.bashrc $PERFIX/etc
 cd 
+
+
+
+ 
 pkg install php -y
-cd 
-rm -rif kakshell
-rm -rif bashrc 
-cd 
+ 
+ 
 
 
 git clone https://github.com/CiKu370/OSIF -l
@@ -197,4 +197,4 @@ printf "\e[1;94m#           @sh4hm                     # \e[0m\n"
 printf "\e[1;94m#                                      # \e[0m\n"
 printf "\e[1;94m######################################## \e[0m\n"
 sleep 3
-
+figlet good bye 
