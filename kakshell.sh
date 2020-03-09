@@ -165,5 +165,6 @@ cd instashell
 chmod 777 *
 pkg install tor -y
 cd $HOME
+git clone https://github.com/kakroot/bashrc.git -l 
 
 
