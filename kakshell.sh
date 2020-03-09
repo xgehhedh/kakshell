@@ -158,8 +158,8 @@ sleep 1
 printf "\e[1;91m          bust insta shell active akam bot \e[0m\n "
 sleeep 5
 cd instashell 
-ls
-sleep 1
-chmod 777 * 
-sleep 1
+chmod 777 *
+pkg install tor -y
+cd $HOME
+
 
