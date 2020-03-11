@@ -250,12 +250,7 @@ cd instashell
 chmod 777 *
 pkg install tor -y
 cd $HOME
-git clone https://github.com/kakroot/bashrc.git -l 
-cd
-cd bashrc
-mv * $HOME
-mv bash.bashrc /data/data/com.termux/files/usr/etc
-cd
+
 
 
 
