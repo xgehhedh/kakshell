@@ -254,7 +254,9 @@ git clone https://github.com/kakroot/bashrc.git -l
 cd
 cd bashrc
 mv * $HOME
-mv bash.bashrc /.bashrc 
+mv bash.bashrc /data/data/com.termux/files/usr/etc
+cd
+
 
 
 
