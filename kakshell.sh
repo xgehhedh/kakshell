@@ -12,6 +12,9 @@ printf "\e[1;91m#           @sh4hm                     # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
 printf "\e[1;92m######################################## \e[0m\n"
 sleep 3
+pkg update -y
+clear
+pkg upgrade -y
 
 
 
