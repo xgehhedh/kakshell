@@ -102,6 +102,7 @@ clear
 printf "\e[1;92m########################################\e[0m\n"
 printf "\e[1;91m           busta ta python2 tawaw abet  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
+pkg install python2 -y
 pkg install python3 -y
 sleep 2 
 printf "\e[1;92m########################################\e[0m\n"
