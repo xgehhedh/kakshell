@@ -204,38 +204,38 @@ pkg install sl -y
 sleep 1
 clear
 printf "\e[1;92m##############################################################\e[0m\n"
-printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta    \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @Sh4hom insta    \e[0m\n"
 printf "\e[1;92m#############################################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m          xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m        xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
-printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m        xwat lagal bram tawaw bw followm bkan @Sh4hom insta   \e[0m\n"
+printf "\e[1;92m####################################\e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @Sh4hom insta   \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 1
 clear
 printf "\e[1;92m########################################\e[0m\n"
 
-printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta \e[0m\n"
+printf "\e[1;91m  xwat lagal bram tawaw bw followm bkan @Sh4hom insta \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 clear
 sleep 1
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m       xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
+printf "\e[1;91m   xwat lagal bram tawaw bw followm bkan @Sh4hom insta  \e[0m\n"
 printf "\e[1;92m########################################\e[0m\n"
 sleep 5
 clear 
@@ -247,7 +247,7 @@ git clone https://github.com/thelinuxchoice/instashell -l
 sleep 1 
 clear 
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;91m          bust insta shell active akam bot \e[0m\n "
+printf "\e[1;91m bust insta shell active akam bot \e[0m\n "
 printf "\e[1;92m########################################\e[0m\n"
 sleep 5
 cd instashell 
@@ -288,6 +288,7 @@ printf "\e[1;94m######################################## \e[0m\n"
 sleep 3
 figlet good bye 
 printf "\e[1;92m instagram  @sh4hom \e[0m\n"\
-exit 
+cd $HOME
 
 
+ls
