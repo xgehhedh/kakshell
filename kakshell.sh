@@ -274,6 +274,9 @@ pip2 install -r  requirements.txt
 
 
 cd $HOME
+git clone https://github.com/thelinuxchoice/shellphish.git -l
+
+
 
 
 printf "\e[1;94m########################################\e[0m\n"
@@ -284,4 +287,7 @@ printf "\e[1;94m#                                      # \e[0m\n"
 printf "\e[1;94m######################################## \e[0m\n"
 sleep 3
 figlet good bye 
-printf "\e[1;92m instagram  @sh4hom \e[0m\n"
+printf "\e[1;92m instagram  @sh4hom \e[0m\n"\
+exit
+
+
