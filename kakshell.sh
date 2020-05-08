@@ -6,7 +6,7 @@ clear
  cd $HOME
  
 printf "\e[1;92m########################################\e[0m\n"
-printf "\e[1;92m#   this tools Great by kakshell       # \e[0m\n"           
+printf "\e[1;92m#   this tools Creat by kakshell       # \e[0m\n"           
 printf "\e[1;92m#       follow my instagram            # \e[0m\n"
 printf "\e[1;91m#           @sh4hm                     # \e[0m\n"
 printf "\e[1;92m#                                      # \e[0m\n"
